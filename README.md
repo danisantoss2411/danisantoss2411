@@ -2,7 +2,6 @@
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danisantoss2411&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danisantoss2411)](https://github.com/danisantoss2411/github-readme-stats)
 
 ## Tecnologias que uso no meu dia...💻
 
