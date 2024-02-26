@@ -1,6 +1,6 @@
+Hi Devs..💻
 
-
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danisantoss2411&show_icons=true&theme=dracula)
+Meu Nome é Daniel Santos, sou um progamador Front End, atualmente estou aprendendo e criando projetos em HTML, CSS e JS e React.
 
 
 ## Tecnologias que uso no meu dia...💻
@@ -13,7 +13,10 @@
 <img alta="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br/>
 
-A tecnologia me mostrou que posso ir alem dos meus limites...🚀
+[![Daniel stats](https://github-readme-stats.vercel.app/api?username=danisantoss2411)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contato
-https://danielsantoss2411@gmail.com <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danisantoss2411)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
